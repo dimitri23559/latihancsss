@@ -1,0 +1,72 @@
+h1{
+    color:lightblue;
+    font-family: arial;
+    text-align: center;
+}
+p{
+    text-indent: 30px;
+    line-height: 1,5;
+    font-size: 16px;
+    color: royalblue;
+    font-family: verdana;
+}
+li{
+    color: cornflowerblue;
+    font-size: 12px;
+    font-family: cursive;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+
+    display: block;
+    margin:0px auto 0px auto;}
+h1{
+    color: black;
+}
+#judul{
+    color:orange;
+}
+.tengah{
+    align-self: center;
+    color: blue;
+
+}
+
+h2,h3,h4{
+    color: midnightblue;
+}
+h2.tengah{
+    color: pink;
+}
+a:link{
+    color: midnightblue;
+}
+a:visited{
+    color: green;
+
+}
+a:hover{
+    color: orange;
+}
+a:active{
+    color: darkcyan;
+}
+
+.button{
+    border-radius: 5px;
+    border: none;
+    background-color: midnightblue;
+    color:#ffff;
+    text-align: center;
+    font-size: 28px;
+}
+
+.button:hover {background-color: orange;}
+
+.button:active{
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+}

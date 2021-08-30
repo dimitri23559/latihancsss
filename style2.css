@@ -1,0 +1,25 @@
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+
+    display: block;
+    margin:0px auto 0px auto;}
+h1{
+    color: black;
+}
+#judul{
+    color:orange;
+}
+.tengah{
+    align-self: center;
+    color: blue;
+
+}
+
+h2,h3,h4{
+    color: midnightblue;
+}
+h2.tengah{
+    color: pink;
+}
